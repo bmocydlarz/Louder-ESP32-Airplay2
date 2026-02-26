@@ -1,0 +1,6 @@
+dependencies:
+  espressif/mdns: '*'
+  espressif/libsodium: '*'
+  espressif/esp_audio_codec: ^2.4.0
+  espressif/led_strip: '*'
+  espressif/cjson: ^1.0.0
